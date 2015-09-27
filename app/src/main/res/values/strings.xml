@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Roji Sushibar</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Mensagens de autenticação-->
+    <string name="pedidos_off">Não disponivel no momento</string>
+    <string name="em_desenvolvimento">Em breve está funcionalidade estará disponivel.</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <!-- String de modulos-->
+    <string name="carrinho">Faça seu pedido</string>
+    <string name="localização">Onde estamos</string>
+    <string name="title_activity_localizacao">Localizacao</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_listagem_produtos">ListagemProdutos</string>
+    <string name="title_activity_cadastro_dados">CadastroDados</string>
+</resources>
